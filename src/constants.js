@@ -1,5 +1,5 @@
 
-const BACKEND = "http://localhost:8000/"
+const BACKEND = "https://motionapi.amhyou.com/"
+const WEBSOCK = "wss://motionapi.amhyou.com/"
 
-
-export default { BACKEND }
+export default { BACKEND, WEBSOCK }
